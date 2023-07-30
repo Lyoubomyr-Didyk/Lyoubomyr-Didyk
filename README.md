@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<p align="center">👋 Greetings! I humbly welcome you to my GitHub profile.</p>
+<h2 align="center">👋 Greetings! I humbly welcome you to my GitHub profile.</h2>
 
 ### :man_technologist: About Me :
 
@@ -13,7 +13,7 @@
 - :mailbox: How to reach me: <a href="mailto:didyksdb@gmail.com">didyksdb@gmail.com</a>
 <br>
 <div>
-  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="270"/>
+  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="430" height="250"/>
 </div>
 <br>
 
