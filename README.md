@@ -8,6 +8,7 @@
 - :seedling: I'am Lyoubomyr, an aspiring web developer currently learning the ropes of this exciting field in digital campus "In the alps".
 
 
+
 - :zap: In my free time, I enjoy taking walks with my family through the mountains appreciating the beauty of nature and the tranquility it offers. Additionally, I have a fondness for playing tennis and read tech articles.
 
 - :mailbox: How to reach me: <a href="mailto:didyksdb@gmail.com">didyksdb@gmail.com</a>
@@ -33,7 +34,6 @@
   <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'>&nbsp;&nbsp;&nbsp;
   <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>&nbsp;&nbsp;&nbsp;
 </div>
-<br>
 <br>
 <br>
 <br>
