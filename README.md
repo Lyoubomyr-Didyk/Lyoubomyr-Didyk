@@ -28,6 +28,8 @@
   <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'>&nbsp;&nbsp;&nbsp;
   <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'>&nbsp;&nbsp;&nbsp;
   <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>&nbsp;&nbsp;&nbsp;
+  <br>
+  <br>
   <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'>&nbsp;&nbsp;&nbsp;
   <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>&nbsp;&nbsp;&nbsp;
 </div>
