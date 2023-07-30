@@ -13,9 +13,9 @@
 - :mailbox: How to reach me: <a href="mailto:didyksdb@gmail.com">didyksdb@gmail.com</a>
 <br>
 <div>
-  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="420" height="270"/>
+  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="270"/>
 </div>
-
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <br>
@@ -31,6 +31,20 @@
   <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'>&nbsp;
   <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>&nbsp;
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+---
+
+### :fire: My Stats :
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyoubomyr-Didyk&show_icons=true&theme=cobalt)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyoubomyr-Didyk&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
