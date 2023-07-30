@@ -6,13 +6,33 @@
 ### :man_technologist: About Me :
 
 - :seedling: I'am Lyoubomyr, an aspiring web developer currently learning the ropes of this exciting field in digital campus "In the alps".
+
   
 - :zap: In my free time, I enjoy taking walks with my family through the mountains appreciating the beauty of nature and the tranquility it offers. Additionally, I have a fondness for playing tennis and read tech articles.
-
+  
 - :mailbox: How to reach me: <a href="mailto:didyksdb@gmail.com">didyksdb@gmail.com</a>
+<br>
 <div>
-  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
+  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="420" height="270"/>
 </div>
+
+
+### :hammer_and_wrench: Languages and Tools :
+<br>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'>&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'>&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'>&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>&nbsp;
+</div>
+
+
 
 
 <!---
